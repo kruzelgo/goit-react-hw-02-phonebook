@@ -1,0 +1,5 @@
+.contactList {
+  font-weight: normal;
+  list-style-type: circle;
+  text-transform: capitalize;
+}
